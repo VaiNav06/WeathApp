@@ -23,7 +23,7 @@ def getWeather(board):
     label2.config(text = data)
 
 board = tk.Tk()
-board.geometry("700x800")
+board.geometry("500x600")
 board.title("Weather App")
 
 f1 = ("poppins", 15, "bold")
