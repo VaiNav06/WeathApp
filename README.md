@@ -19,12 +19,12 @@ cd weather-app
 
 	2.	Install the required package:
 
-pip install requests
+			pip install requests
 
 
 	3.	Run the application:
 
-python weather_app.py
+			python weather_app.py
 
 
 
