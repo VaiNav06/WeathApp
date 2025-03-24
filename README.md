@@ -4,12 +4,6 @@ Weather App
 
 A simple weather application using Tkinter and the OpenWeatherMap API. Enter a city name to get real-time weather details, including temperature, wind speed, and sunrise/sunset times.
 
-Features
-	•	Fetches weather data for any city
-	•	Displays temperature, wind speed, and weather conditions
-	•	Shows sunrise and sunset times
-	•	Simple and clean GUI
-
 Installation
 1.	Clone the repository:
 
