@@ -11,20 +11,20 @@ Features
 	•	Simple and clean GUI
 
 Installation
-	1.	Clone the repository:
+1.	Clone the repository:
 
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
-
-
-	2.	Install the required package:
-
-			pip install requests
+		git clone https://github.com/your-username/weather-app.git
+	cd weather-app
 
 
-	3.	Run the application:
+2.	Install the required package:
 
-			python weather_app.py
+		pip install requests
+
+
+3.	Run the application:
+
+		python weather_app.py
 
 
 
