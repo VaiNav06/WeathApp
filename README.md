@@ -8,7 +8,7 @@ Installation
 1.	Clone the repository:
 
 		git clone https://github.com/VaiNav06/WeathApp
-		cd weather-app
+		cd WeathApp
 
 
 2.	Install the required package:
