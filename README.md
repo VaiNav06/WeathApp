@@ -7,7 +7,7 @@ A simple weather application using Tkinter and the OpenWeatherMap API. Enter a c
 Installation
 1.	Clone the repository:
 
-		git clone [https://github.com/your-username/weather-app.git](https://github.com/VaiNav06/WeathApp)
+		git clone https://github.com/VaiNav06/WeathApp
 	cd weather-app
 
 
