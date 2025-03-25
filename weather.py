@@ -5,7 +5,7 @@ import time
 def getWeather(board):
     
     LOCATION = textField.get()
-    api = "http://api.openweathermap.org/data/2.5/weather?q=" + LOCATION +"&appid=ea79cc9cf865424aceb0b0cc07bf7572"
+    api = "http://api.openweathermap.org/data/2.5/weather?q=" + LOCATION +"&appid=your_api_id"
 
     json_data = requests.get(api).json()
     CONDITION = json_data['weather'][0]['main']
